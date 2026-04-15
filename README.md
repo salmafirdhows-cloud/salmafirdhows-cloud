@@ -9,7 +9,7 @@ Currently exploring AI & Machine Learning 🤖
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile;Backend+Developer+in+Progress;Building+Projects+Everyday)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=88C0D0&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
 
 </div>
 
@@ -33,8 +33,6 @@ Currently exploring AI & Machine Learning 🤖
   <img src="https://img.shields.io/badge/MyLearning-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge" />
-
 </div>
 
 ---
@@ -44,12 +42,6 @@ Currently exploring AI & Machine Learning 🤖
 - 🌐 HTML, CSS, JavaScript  
 - 🛢️ MySQL  
 - ⚙️ Git & GitHub  
-
----
-
-### 🚀 Featured Project
-- 🔹 **Finance Backend API**  
-  REST API built using Flask for managing financial data
 
 ---
 
