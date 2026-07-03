@@ -25,14 +25,6 @@ Currently exploring AI & Machine Learning 🤖
   <img src="https://img.shields.io/badge/LinkedIn-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://github.com/salmafirdhows-cloud/pynotes" target="_blank">
-  <img src="https://img.shields.io/badge/PyNotes-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white" />
-</a>
-
-<a href="https://github.com/salmafirdhows-cloud/salmafathima.github.io" target="_blank">
-  <img src="https://img.shields.io/badge/MyLearning-%232E3440.svg?&style=for-the-badge&logo=bookstack&logoColor=white" />
-</a>
-
 </div>
 
 ---
